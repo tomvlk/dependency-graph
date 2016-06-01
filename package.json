@@ -1,7 +1,7 @@
 {
   "name": "@tomvlk/dependency-graph",
   "description": "Simple dependency graph.",
-  "version": "0.6.0",
+  "version": "0.5.0",
   "author": "Jim Riecken <jriecken@gmail.com>",
   "contributors": [
     {
@@ -13,10 +13,7 @@
     "dependency",
     "graph"
   ],
-  "license": {
-    "type": "MIT",
-    "url": "http://github.com/tomvlk/dependency-graph/raw/master/LICENSE"
-  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/tomvlk/dependency-graph.git"

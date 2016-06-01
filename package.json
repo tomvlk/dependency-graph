@@ -1,7 +1,7 @@
 {
   "name": "@tomvlk/dependency-graph",
   "description": "Simple dependency graph.",
-  "version": "0.6.0",
+  "version": "1.0.0",
   "author": "Jim Riecken <jriecken@gmail.com>",
   "contributors": [
     {

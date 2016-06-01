@@ -1,22 +1,28 @@
 {
-  "name": "dependency-graph",
+  "name": "@tomvlk/dependency-graph",
   "description": "Simple dependency graph.",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "author": "Jim Riecken <jriecken@gmail.com>",
+  "contributors": [
+    {
+      "name": "Tom Valk",
+      "email": "tomvalk@lt-box.info"
+    }
+  ],
   "keywords": [
     "dependency",
     "graph"
   ],
   "license": {
     "type": "MIT",
-    "url": "http://github.com/jriecken/dependency-graph/raw/master/LICENSE"
+    "url": "http://github.com/tomvlk/dependency-graph/raw/master/LICENSE"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jriecken/dependency-graph.git"
+    "url": "git://github.com/tomvlk/dependency-graph.git"
   },
   "bugs": {
-    "url": "http://github.com/jriecken/dependency-graph/issues"
+    "url": "http://github.com/tomvlk/dependency-graph/issues"
   },
   "main": "./lib/dep_graph.js",
   "scripts": {
@@ -28,6 +34,6 @@
     "jasmine-node": "1.14.5"
   },
   "engines": {
-    "node": ">= 0.6.0"
+    "node": ">= 4.0.0"
   }
 }
